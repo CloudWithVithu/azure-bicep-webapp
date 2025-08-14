@@ -54,11 +54,10 @@ graph TD
 ## 📸 Screenshots
 
 ### Azure Portal – Deployed Resources
-![Azure Portal showing Web App and Storage Account](screenshots/Screenshot(242).png)
+![Azure Portal showing Web App and Storage Account](screenshots/azure-portal-resources.png)
 
 ### Terminal – Successful Deployment
-![Terminal output showing deployment success](screenshots/Screenshot(244).png)
-![Terminal output showing deployment success](screenshots/Screenshot(245).png)
+![Terminal output showing deployment success](screenshots/terminal-deploy-success.png)
 
 ### Web App – Live URL
-![Screenshot of the running Azure Web App](screenshots/Screenshot(243).png)
+![Screenshot of the running Azure Web App](screenshots/webapp-live.png)
